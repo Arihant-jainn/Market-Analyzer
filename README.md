@@ -1,3 +1,8 @@
+## Live Demo
+
+Check out the **live version** of this project here: [Global Voice Translator]([https://your-vercel-link.vercel.app](https://market-analyzer-dashboard.vercel.app/))
+
+
 # AI Stock Market Sentiment Analyzer
 
 A sophisticated web application that analyzes financial news, social media posts, and market trends to generate real-time sentiment analysis and predictions for stocks. Built with React, TypeScript, and advanced data visualization capabilities.
