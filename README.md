@@ -1,6 +1,6 @@
 ## Live Demo
 
-Check out the **live version** of this project here: [Global Voice Translator]([https://your-vercel-link.vercel.app](https://market-analyzer-dashboard.vercel.app/))
+Check out the **live version** of this project here: (https://market-analyzer-dashboard.vercel.app/)
 
 
 # AI Stock Market Sentiment Analyzer
